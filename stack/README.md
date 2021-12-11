@@ -1,0 +1,1 @@
+For concurrency safety use sync.RWMutex
